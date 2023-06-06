@@ -85,6 +85,10 @@ p {
     gap: 50px;
     padding: 50px;
 }
+.greeting {
+    text-align: center;
+}
+
 @media (max-width: 768px) {
     .column {
         flex: 100%;
